@@ -8,7 +8,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
 /**
- * Entity -> Book { title, isbn, publisher }
+ * Entity -> Book { id (PK), title, isbn, publisher }
  * 
  * @author Toni Zeidler
  *
